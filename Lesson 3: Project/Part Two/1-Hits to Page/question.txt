@@ -1,0 +1,3 @@
+write a MapReduce program which will display the number of hits for each diffrent file on the website
+
+how maby hits were made to the page /assets/js/the-associates.js
